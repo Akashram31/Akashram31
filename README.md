@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Akash Ram
+# Hi there 👋, I'm Akash R
 
 🎓 B.Tech Computer Science Student at SASTRA University
 
