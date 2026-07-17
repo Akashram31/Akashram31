@@ -33,8 +33,6 @@
 * React.js
 * Node.js
 * Express.js
-* Django
-* Bootstrap
 
 ### Databases
 
