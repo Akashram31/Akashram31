@@ -58,13 +58,13 @@
 
 **Technologies:** React.js, Node.js, Express.js, FastAPI, Python, Scikit-learn, SHAP, MongoDB, JWT
 
-Developed a full-stack AI-powered healthcare platform for diabetes risk prediction.
-Built a React.js frontend integrated with Express.js and FastAPI backend services.
-Implemented a Random Forest model for real-time prediction with SHAP explainability.
-Developed secure REST APIs and JWT Authentication for user management.
-Created personalized health recommendations and assessment history.
-Integrated MongoDB for secure data storage and user records.
-Shortlisted in the Bharat Academix CodeQuest 2026 National Hackathon.
+* Developed a full-stack AI-powered healthcare platform for diabetes risk prediction.
+* Built a React.js frontend integrated with Express.js and FastAPI backend services.
+* Implemented a Random Forest model for real-time prediction with SHAP explainability.
+* Developed secure REST APIs and JWT Authentication for user management.
+* Created personalized health recommendations and assessment history.
+* Integrated MongoDB for secure data storage and user records.
+* Shortlisted in the Bharat Academix CodeQuest 2026 National Hackathon.
 
 ---
 
